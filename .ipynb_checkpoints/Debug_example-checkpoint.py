@@ -5,8 +5,8 @@ from self_py_fun.DebugFun import *
 bp_low = 0.5
 bp_upp = 6
 electrode_num = 16
-parent_dir = 'C:\Users\paige\OneDrive\Documents\GitHub\BIOS-584'
-parent_data_dir = '{}\data'.format(parent_dir)
+parent_dir = '/Users/tma33/Library/CloudStorage/OneDrive-EmoryUniversity/Emory/Rollins SPH/2025/BIOS-584/python_proj'
+parent_data_dir = '{}/data'.format(parent_dir)
 time_index = np.linspace(0, 800, 25)
 electrode_name_ls = ['F3', 'Fz', 'F4', 'T7', 'C3', 'Cz', 'C4', 'T8', 'CP3', 'CP4', 'P3', 'Pz', 'P4', 'PO7', 'PO8', 'Oz']
 
