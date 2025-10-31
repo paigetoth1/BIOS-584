@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02058706-72ec-49ad-a2d1-919b3b0156bf" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HW8.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week-09-pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-09-pandas.ipynb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/HW7.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/HW7.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-06-functions-arguments-arrays.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-06-functions-arguments-arrays.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-07-numpy-array-continued.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/week-07-numpy-array-continued.ipynb" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
